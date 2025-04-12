@@ -1,6 +1,4 @@
-# Deep-Learning-Vision-Transformer-ViT-vs-ResNet-18-on-CIFAR-10
-
-# Vision Transformer (ViT) vs ResNet-18 on CIFAR-10
+# Deep Learning: Vision Transformer (ViT) vs ResNet-18 on CIFAR-10
 
 This repository contains the implementation and comparison of Vision Transformer (ViT) and ResNet-18 models for image classification on the CIFAR-10 dataset.
 
